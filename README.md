@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h1>Hi, i'm rahee 👋🏻</h1>
   <h3>i'm keeping study harder!</h3>
   <br/>
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<div align="left">
+<div align="center">
   <h2>🍑 Studying Stack 🍑</h2>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -20,14 +20,14 @@
 </div>
 <br/>
 
-<div align="left">
+<div align="center">
   <h2>🥨 My Stack 🥨</h2>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 </div>
 <br/>
 
-<div align="left">
+<div align="center">
   <h2>🍒 Cowork Tools 🍒</h2>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
